@@ -9,6 +9,7 @@ Miran Kadir, githubrepo: https://github.com/miran032
 Python / 433
 
 ## Link to product walkthrough
+https://drive.google.com/file/d/1EFD5a1dgWhjfVb5uaIVpCVlQYPzh_CrS/view?usp=sharing
 
 
 ## How it works
